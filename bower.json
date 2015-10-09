@@ -1,0 +1,22 @@
+{
+  "name": "digit-sum",
+  "main": "digit-sum.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/digit-sum",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "Sum the digits of a number.",
+  "keywords": [
+    "sum",
+    "digit"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
