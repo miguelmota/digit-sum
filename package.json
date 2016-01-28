@@ -1,6 +1,6 @@
 {
   "name": "digitsum",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sum the digits of a number.",
   "main": "digit-sum.js",
   "directories": {
